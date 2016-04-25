@@ -1,5 +1,5 @@
 # PhpTokenizer
-is a class that i wrote before,i didn't known the token_get_all() function at that time.thus i re-make the wheel.
+is a class that i wrote before,i didn't known the token_get_all() function at that time.thus i re-made the wheel.
 
 # simple usage
 
